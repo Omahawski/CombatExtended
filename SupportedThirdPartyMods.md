@@ -429,6 +429,7 @@ Recon Mechanoid |
 ReGrowth: Core |
 ReGrowth: Extinct Animals |
 ReGrowth: Wastelands |
+Reinforced Mechanoid 2 |
 Remote Detonator	|
 Remove Industrial Stuff |
 Revia Race |
